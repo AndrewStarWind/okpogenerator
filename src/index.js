@@ -1,4 +1,5 @@
 import { generate } from './utils/okpoGenerator';
+import './index.css';
 
 const IECheckbox = document.querySelector('#ie');
 const Input = document.querySelector('#okpo');
